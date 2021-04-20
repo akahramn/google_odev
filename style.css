@@ -1,0 +1,271 @@
+
+
+.nav {
+
+    width: 100%;
+    height: 48px;
+    margin: 6px;
+
+}
+.left{
+    float: left;
+}
+
+.general-selections {
+
+    padding: 0px 4px 0px 32px;
+    background-color: white;
+    float: right;
+    height: 48px;
+    vertical-align: middle;
+    white-space: nowrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-user-select: none;
+
+}
+#account {
+    padding: 4px;
+    float: left;
+
+}
+
+#app {
+    padding: 12px;
+    float: left;
+
+}
+
+#images {
+
+    margin-top: 16px;
+    float: left;
+    padding: 0px 0px 0px 15px;
+    width: 42.64px;
+    height: 24px;
+    font-family: Arial, SansSerif;
+    font-size: 13px;
+    }
+
+#mail-btn {
+    color: rgba(0,0,0,0.87);
+    margin-top: 16px;
+    float: left;
+    padding: 0px 0px 0px 15px;
+    width: 33.95px;
+    height: 24px;
+    font-family: Arial, SansSerif;
+    font-size: 13px;
+
+
+}
+
+#appImage {
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+}
+
+#accountImage {
+    width: 32px;
+    height: 32px;
+    padding: 4px;
+    border-radius: 50%;
+}
+
+#google-logo {
+    display: block;
+    width: 272px;
+    height: 92px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#buyutec-ıcon img{
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: 8px;
+    float: left;
+}
+
+#aramaInput input {
+    width: 487px;
+    height: 34px;
+    margin-top: 0px;
+    float: bottom;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+
+
+
+}
+
+#microphoneLogo img {
+    margin-top: -27px;
+    height: 24px;
+    width: 24px;
+    float: right;
+    flex: 1 0 auto;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    border: 0;
+    background: transparent;
+    outline: none;
+    padding: 0 8px;
+    width: 24px;
+    line-height: 44px;
+
+
+}
+
+#arama {
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    z-index: 3;
+    height: 44px;
+    margin: 0 auto;
+    width: 482px;
+    width: auto;
+}
+
+#searchLucky {
+    display: block;
+    text-align: -webkit-center;
+    width: 584px;
+    height: 88px;
+    padding-top: 18px;
+}
+
+.googleSearch input {
+    height: 36px;
+    width: 127.41px;
+    background-color: #F8F9FA;
+    float: left;
+    margin: 11px 4px 11px 104px;
+    border: 1px;
+
+}
+
+.googleSearch input[type="text"] {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+
+}
+
+
+.feelingLucky input {
+    height: 36px;
+    width: 142.5px;
+    background-color: #F8F9FA;
+    margin: 11px 134px 11px 4px ;
+    border: 1px;
+
+}
+
+.feelingLucky input[type="text"] {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+#googleOffer p {
+    text-align: center;
+    margin-top: 70px;
+    font-family: arial,sans-serif;
+    color: #222;
+    font-size: small;
+    line-height: 28px;
+
+}
+
+#googleOffer a {
+    text-decoration: none;
+}
+#footerTur {
+    display: flex;
+    margin-bottom: 37px;
+}
+
+#footerTur p {
+    width: 100% ;
+    height: 17px;
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: rgba(0,0,0,.54);
+    font-family: arial,sans-serif;
+}
+
+#footerNav {
+    display: flex;
+    width: 100%;
+    height: 46px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 20px;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #222;
+    margin: 0px;
+
+}
+
+#footerNav a {
+    float: left;
+    text-decoration: none;
+    color: #70757a;
+    display: block;
+    padding: 15px;
+    white-space: nowrap;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+
+
+}
+#footer {
+    width: 100%;
+    background-color: #F2F2F2;
+    display: flex;
+    align-items: flex-end;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
